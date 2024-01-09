@@ -8,4 +8,4 @@ A person who knows the limitations are just lies that are made up by weak brains
 # 💻 Tech Stack:
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/osmansahyilmaz/CS204) 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/osmansahyilmaz/IF100) 
-[![Scrapy](https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png)](https://github.com/osmansahyilmaz/E-commerce-Web-Scraping)
+[![Scrapy](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/osmansahyilmaz/E-commerce-Web-Scraping)
