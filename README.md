@@ -1,5 +1,5 @@
 # 💫 About Me:
-A person who knows the limitations are just lies that are made up by weak brains. That's why I always keep trying to achieve my goals and reach my dreams. I also encourage my teammates to do better.<br><br>I have always been into technology since I was 3(really). Problem solving, math and tech have always been the keys of pleasure of my life.
+I am a dedicated computer science student with a strong foundation in full-stack application development and a deep curiosity about data science and machine learning. My experience spans building applications from scratch and leading teams, with a focus on uncovering insights through data analysis. I am committed to solving complex problems and continuously expanding my skill set in full-stack app development, data science, and machine learning.
 
 
 ## 🌐 Socials:
